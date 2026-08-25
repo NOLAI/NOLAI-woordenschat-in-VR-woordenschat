@@ -1,0 +1,3 @@
+Afkonstig van: https://github.com/chrisnolet/QuickOutline
+Developed by Chris Nolet (c) 2018
+MIT licentie

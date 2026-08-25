@@ -1,0 +1,3 @@
+Find the asset 'POLYGON - Pirate Pack - Art by Synty' in the unity store to purchase a license for usage of the package, then place its contents into the UnityPackage folder
+
+https://assetstore.unity.com/packages/3d/environments/historic/polygon-pirate-pack-art-by-synty-92579
