@@ -1,5 +1,5 @@
 
-# Woordenschat in VR — Virtual Harbour
+# Woordenschat in VR — Learning new words in a virtual harbour
 
 A VR vocabulary-learning game for young children (kleuters, ages ~4–6), built as part of the **NOLAI** research project in collaboration with Radboud University. Players explore a small island harbour town across multiple levels, meeting AI-driven characters who help them learn new words in rich, contextual situations.
 
@@ -9,12 +9,12 @@ In development between 2023 and 2026, and used for gathering research data from 
 
 ## How it works
 
-This Unity project is the VR client. It connects live to a companion dashboard ([`nolai-dashboard`](https://github.com/Stijn-van-Sprang/nolai-dashboard)), which streams commands into the game and records session data as children play. Non-player characters in the game have distinct personalities and hold real conversations with players, powered by a locally hosted language model on the dashboard side. Some lines (e.g. introductions, hints) are fixed voice lines; open conversation is generated live.
+This Unity project is the VR client. It connects live to a companion dashboard ([`nolai-dashboard`](https://github.com/vrlearninglab/NOLAI-dashboard)), which streams commands into the game and records session data as children play. Non-player characters in the game have distinct personalities and hold real conversations with players, powered by a locally hosted language model on the dashboard side. Some lines (e.g. introductions, hints) are fixed voice lines; open conversation is generated live.
 
 ## Requirements
 
 - [Unity Hub](https://unity.com/download) + a Unity account (a free personal license is sufficient)
-- A running instance of the [``nolai-dashboard``](https://github.com/Stijn-van-Sprang/nolai-dashboard) project (see that repo's README) — the game will not function fully without it
+- A running instance of the [``nolai-dashboard``](https://github.com/vrlearninglab/NOLAI-dashboard) project (see that repo's README) — the game will not function fully without it
 - A VR headset supported by Unity's XR toolchain. This project has been build and tested for research purposes on the Meta Quest 3 with an extra small headstrap for the small heads of children.
 
 ## Getting started
