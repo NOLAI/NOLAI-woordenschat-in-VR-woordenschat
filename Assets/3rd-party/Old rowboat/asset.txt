@@ -1,0 +1,3 @@
+Find the asset 'Old Rowboat' in the unity store to purchase a license for usage of the package, then place its contents into the UnityPackage folder
+
+https://assetstore.unity.com/packages/3d/vehicles/sea/old-rowboat-31917
