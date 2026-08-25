@@ -23,7 +23,7 @@ This Unity project is the VR client. It connects live to a companion dashboard (
 2. **Install Unity Hub** from [unity.com/download](https://unity.com/download) and sign in (create a free account if needed). When prompted, add a free license to your account — an education license also works if you have one.
 3. **Add the project** in Unity Hub: *Add* → select the folder you cloned in step 1.
 4. Unity Hub will flag that the required editor version isn't installed. Install the recommended version through Unity Hub. During installation, it's recommended to also install **VS Code** with the *"Game development with C# in Unity"* module (offered automatically by the installer).
-5. **Open the project** and go to the ``Scenes`` folder — all game scenes are located there.
+5. **Open the project** and go to the ``Scenes`` folder — all game scenes are located there. Pick and open the main menu scene.
 6. In the scene view, find the **``Dashboard Connector``** component and set its IP address to the IP of the machine running the dashboard (``localhost`` if running both on the same machine).
 7. Press Play. If the dashboard is already running, you should see a live preview/connection appear on the dashboard side.
 
