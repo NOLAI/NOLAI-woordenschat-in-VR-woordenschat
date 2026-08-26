@@ -41,6 +41,10 @@ Some assets used in this project require their own (in some cases paid) license 
 
 Research prototype, developed 2023–2026 as part of the NOLAI project. Development and data collection have concluded; this repository is published as-is for reference and reproducibility.
 
+## Partner
+
+The project was funded by NOLAI and build in collaboration with Radboud University
+
 ## License
 
 Apache License 2.0 — see [LICENSE](LICENSE) for details.
