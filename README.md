@@ -44,7 +44,13 @@ Research prototype, developed 2023–2026 as part of the NOLAI project. Developm
 ## Partner
 
 The project was funded by NOLAI and build in collaboration with Radboud University
+<br> <br>
+<img src="/NOLAI%20logo_NL.jpg" alt="NOLAI logo" width="200" />
 
 ## License
 
 Apache License 2.0 — see [LICENSE](LICENSE) for details.
+
+## Contact
+
+For questions about this project, sent an email to mail@vrlearninglab.nl
